@@ -1,0 +1,30 @@
+located_active_project_architects
+yellow dot 4px
+http://i.imgur.com/CfBVesr.png
+yellow dot 8px
+http://i.imgur.com/19clsCM.png
+
+blue dot
+http://i.imgur.com/qzNmpUI.png
+
+located_active_proejct_customers_output
+green dot
+http://i.imgur.com/LR2VvFs.png
+
+purple dot
+http://i.imgur.com/LdF4P1g.png
+
+located_users_output, located_users_outpu2
+orange dot 4px
+http://i.imgur.com/Gq8rvB9.png
+orange dot 8px
+http://i.imgur.com/WNDYxFc.png
+
+
+located_active_project_customers
+pink dot
+http://i.imgur.com/XJRwniH.png
+
+
+bright green dot
+http://i.imgur.com/smsb6LL.png
